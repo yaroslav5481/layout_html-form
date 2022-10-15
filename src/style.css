@@ -1,1 +1,20 @@
-/* styles go here */
+.labels {
+  display: block;
+  margin: 10px 0;
+}
+
+.field {
+  margin: 20px 0;
+}
+
+.catsLover {
+  display: inline-block;
+}
+
+.car {
+  display: inline-block;
+}
+
+.lastLabel {
+  margin-bottom: 0;
+}
